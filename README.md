@@ -20,9 +20,6 @@ This application solves the common problem of employees wasting time searching t
 
 ## 📸 Application Screenshots
 
-### Main Dashboard
-![Dashboard](https://github.com/user-attachments/assets/72d90535-4039-4f01-afb6-8cea217343e7)
-
 ### HR Assistant Interface
 ![HR Assistant](https://github.com/user-attachments/assets/3b4ab0dc-3e35-48f6-b638-71d51ed02607)
 
